@@ -48,3 +48,7 @@ show=False #Decide, wheter it makes sense, to show outputs of pyspark df's. will
 optimize=False #optimize grid-cv-search? will be slow, but proably better model performance
 model_eval=True #Choose whether you like to see model evaluations.
 plot=True #Choose if you want to see any EDA-Visualizations
+
+### Summary
+Please read my blog-post for this:
+https://medium.com/p/54098f3cf6f5/
